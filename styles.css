@@ -21,9 +21,9 @@ body {
 
 
     
-    /* background-image: url('images/pic.png');
+    background-image: url('images/background.jpg');
     background-size: cover; 
-    background-position: center; */
+    background-position: center;
 
 }
 
@@ -33,12 +33,12 @@ body {
 
         height: 100%;
         width: 100%;
-        border: 2px solid #333;
+        /* border: 2px solid #333; */
         
 }
 
 .logo-container {
-    border: 2px solid #333;
+    /* border: 2px solid #333; */
     height: 18%;
     display: flex;
     align-items: center;
@@ -50,7 +50,7 @@ body {
 }
 
 .title-container {
-    border: 2px solid #333;
+    /* border: 2px solid #333; */
     height: 40%;
 
     display: flex;
@@ -68,7 +68,7 @@ body {
 }
 
 .arrow-container {
-    border: 2px solid #333;
+    /* border: 2px solid #333; */
     height: 40%;
 
 
